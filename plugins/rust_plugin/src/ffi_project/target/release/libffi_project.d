@@ -1,0 +1,1 @@
+/Users/transformhub/Downloads/mycam/flutapptwo/plugins/rust_plugin/src/ffi_project/target/release/libffi_project.dylib: /Users/transformhub/Downloads/mycam/flutapptwo/plugins/rust_plugin/src/ffi_project/src/lib.rs
